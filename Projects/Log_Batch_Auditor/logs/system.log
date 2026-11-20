@@ -1,0 +1,5 @@
+2026-11-20 09:00:00 INFO: System started
+2026-11-20 09:05:12 INFO: Network connection established
+2026-11-20 09:10:45 ERROR: Disk space is running low
+2026-11-20 09:15:20 INFO: Backup completed
+2026-11-20 09:20:33 ERROR: Service failed to start

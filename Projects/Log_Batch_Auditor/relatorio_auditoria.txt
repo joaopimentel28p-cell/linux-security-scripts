@@ -1,0 +1,15 @@
+Arquivo analisado: ./logs/sistema.log
+------------------------
+./logs/sistema.log:2026-11-20 09:10:45 ERROR: Disk space is running low
+./logs/sistema.log:2026-11-20 09:20:33 ERROR: Service failed to start
+
+Arquivo analisado: ./logs/servidor.log
+------------------------
+./logs/servidor.log:2026-11-20 10:10:15 FAILED: Authentication rejected
+./logs/servidor.log:2026-11-20 10:15:40 ERROR: Internal server error
+
+Arquivo analisado: ./logs/auth.log
+------------------------
+./logs/auth.log:2026-11-20 08:12:30 FAILED: Invalid password for user john
+./logs/auth.log:2026-11-20 08:13:05 FAILED: Invalid password for user john
+./logs/auth.log:2026-11-20 08:20:10 FAILED: Invalid password for user admin
